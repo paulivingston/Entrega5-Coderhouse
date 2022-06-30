@@ -1,2 +1,1 @@
-EJS dinamismo
-datos parciales
+Elijo EJS por su dinamismo, por que utiliza el mismo lenguaje que js y por la posibilidad de generar vistas parciales.
